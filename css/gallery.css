@@ -13,3 +13,13 @@ figure.item
     text-align: center;
     width: 180px;
 }
+a img
+{
+    padding: 3px;
+}
+.caption
+{
+    display: block;
+    font-style: italic;
+    font-size: 0.9em;
+}
