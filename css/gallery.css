@@ -1,0 +1,15 @@
+.gallery
+{
+    width: 100%;
+}
+.gallery img
+{
+    width: 180px;
+    border: 1px solid #bbb;
+}
+figure.item
+{
+    float: left;
+    text-align: center;
+    width: 180px;
+}
