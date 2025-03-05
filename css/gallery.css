@@ -6,6 +6,12 @@
 {
     width: 180px;
     border: 1px solid #bbb;
+    transition: opacity 300ms ease-in-out;
+    opacity: 0.7;
+}
+figure
+{
+    margin: 25px;
 }
 figure.item
 {
